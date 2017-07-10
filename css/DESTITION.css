@@ -1,0 +1,50 @@
+.DESTION-Bigbox{
+	padding:0 60px;
+}
+.carousel-box{
+	margin-top: 182px;
+}
+.banner-img{
+	margin-top: 35px;
+	
+}
+#banner1{
+	display: block;
+	position: relative;
+	bottom:-220px;
+	opacity: 0;
+}
+#banner2{
+	display: block;
+	position: relative;
+	bottom:-220px;
+	opacity: 0;
+}
+#banner3{
+	display: block;
+	position: relative;
+	bottom:-220px;
+	opacity: 0;
+}
+
+
+
+
+
+.star-box-content{
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	position: absolute;
+	top:100%;
+	margin-bottom: 50px;
+}
+.star-box-content p:nth-child(1){
+	font-size: 28px;
+	line-height: 1;
+}
+.star-box-content p:nth-child(2){
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 3;
+}

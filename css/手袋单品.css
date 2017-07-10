@@ -1,0 +1,147 @@
+.item-top{
+	width: 100%;
+	height: 38px;
+	font-size: 12px;
+	letter-spacing: 1px;
+	/*border: 1px solid saddlebrown;*/
+	padding: 9px 20px;
+	margin-top: 155px;
+
+}
+.Big-itemBox{
+	width: 100%;
+	overflow: hidden;
+	height: auto;
+}
+.Big-itemBox-left-img{
+	width: 5%;
+	height: 550px;
+	/*background-color: white;*/
+	float: left;
+	/*border: 1px solid saddlebrown;*/
+	position: fixed;	
+	padding-top: 30px;
+}
+
+/*.Big-itemBox-left-img img{
+	width: 45px;
+	height: 45px;
+	float: left;
+	margin-bottom: 16px;
+	display: none;
+}*/
+.Big-itemBox-left{
+	width: 10%;
+	height: 550px;
+	/*background-color: white;*/
+	float: left;
+	/*border: 1px solid saddlebrown;*/
+	position: fixed;	
+	margin-right: 50px;
+
+}
+.Big-itemBox-middle{
+	width: 42%;
+	float: left;
+	/*border: 1px solid saddlebrown;*/
+    
+    margin-left: 10%;
+}
+.Big-itemBox-right{
+	width: 48%;
+	float: right;
+	/*border: 1px solid saddlebrown;*/
+	padding:0 90px;
+
+}
+.Big-itemBox-right1{
+	border-bottom: 1px solid #D5D5D5;
+	margin-bottom: 40px;
+}
+.Big-itemBox-right2{
+	font-size: 11.5px;
+	letter-spacing: 0.5px;
+	font-family: "微软雅黑";
+	line-height: 1.6;
+}
+.right-p1{
+	font-weight: bolder;
+}
+
+.Big-itemBox-middle img{
+	width: 100%;
+	height: auto;
+	margin-bottom: 10px;
+}
+.fixed1{
+	padding-right: 90px;
+}
+
+
+/*你可能喜欢*/
+.Big-itemlike{
+	width: 100%;
+	padding: 40px 50px;
+	/*border: 1px solid saddlebrown;*/
+	height: 570px;
+	
+	
+}
+.itemlike{
+	width: 25%;
+	height: 490px;
+	float: left;
+}
+.itemlike-content{
+	font-size: 22px;
+	letter-spacing: 1px;
+    text-align: center;
+    padding: 20px 0;
+    font-family: "微软雅黑";
+}
+
+.item-nav li{
+	border: 1px solid #D5D5D5;
+	border-radius: 50%;
+	width: 10px;
+	height: 10px;
+	margin-bottom: 50px;
+	float: left;
+}
+.item-nav div{
+	width: 60px;
+}
+
+/*.item-nav .li:hover .img{
+	display: block;
+}*/
+.item-nav{
+	width: 10px;
+	height: auto;
+	padding-left: 58%;
+    /*border: 1px solid saddlebrown;*/
+    padding-top: 50px;
+}
+/*.img{
+	width: 50px;
+	height: 50px;
+	float: left;	
+}*/
+.item-nav li{
+	position: relative;
+}
+.item-nav li img{
+	width: 50px;
+	height: 60px;
+	position: absolute;
+	right: 152%;
+    top: -176%;
+    display: none;
+}
+
+.active{
+	background-color: black;
+	border-color: black;
+}
+
+
